@@ -3,7 +3,7 @@ This records my learning progression on Hyperledger Fabric
 
 ## Before We Begin
 
-This is a continuation from [OneHeart project](https://github.com/tkokhing/OneHeart/blob/main/README.md) which I successfully built a blockchain prototype using Hyperledger Fabric. While the project has ended, here 4 milestones that i charted out to go deeper into building a blockchain. 
+This is a continuation from [OneHeart project](https://github.com/tkokhing/OneHeart/blob/main/README.md) which I had successfully built a blockchain prototype using Hyperledger Fabric. While the project has ended, I charted out 4 milestones to go deeper into building a blockchain using Hyperledger Fabric. 
 
 ### 1. Configure IBM Blockchain Platform (IBP) on Different Machine
 
