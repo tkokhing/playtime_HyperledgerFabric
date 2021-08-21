@@ -1,4 +1,4 @@
-# playtime_HyperledgerFabric
+# Playtime with Hyperledger Fabric
 This records my learning progression on Hyperledger Fabric
 
 ## Before We Begin
